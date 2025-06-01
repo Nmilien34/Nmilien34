@@ -54,6 +54,14 @@ Senior **Electrical & Computer Engineering** student at **NJIT** with a serious 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nmilien34&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600">
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+[![GitHub Snake Light](https://raw.githubusercontent.com/Nmilien34/Nmilien34/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Nmilien34/Nmilien34)
+[![GitHub Snake dark](https://raw.githubusercontent.com/Nmilien34/Nmilien34/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/Nmilien34/Nmilien34)
+
+</div>
 
 ## 🏆 GitHub Trophies
 
