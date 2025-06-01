@@ -57,8 +57,6 @@ Senior **Electrical & Computer Engineering** student at **NJIT** with a serious 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-[![GitHub Snake Light](https://raw.githubusercontent.com/Nmilien34/Nmilien34/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Nmilien34/Nmilien34)
 [![GitHub Snake dark](https://raw.githubusercontent.com/Nmilien34/Nmilien34/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/Nmilien34/Nmilien34)
 
 </div>
