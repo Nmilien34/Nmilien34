@@ -12,7 +12,7 @@ Senior **Electrical & Computer Engineering** student at **NJIT** with a serious 
 - 🌱 I'm currently learning **advanced microcontroller programming** and **cloud architecture**
 - 👯 I'm looking to collaborate on **IoT projects** and **innovative startups**
 - 💬 Ask me about **circuit design**, **programming**, or **entrepreneurship**
-- 📫 How to reach me: **[Your Email]** | **[LinkedIn Profile]**
+- 📫 How to reach me: **nick10xeng@gmail.com** | **https://www.linkedin.com/in/nmilien/**
 - ⚡ Fun fact: I can debug both software bugs and hardware circuits with equal enthusiasm!
 
 ## 🛠️ Tech Stack
