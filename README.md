@@ -67,25 +67,18 @@ Consumer AI chatbot for faster internet browsing with productivity tool integrat
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nmilien34&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nmilien34&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="GitHub Activity Graph" width="100%">
-</div>
-
 ## Recognition
 
 | Achievement | Organization | Year |
 |-------------|--------------|------|
 | Alchemist Accelerator | World's #1 B2B Accelerator | 2024 |
-| $80K GMV Generated | Lawnstack | 2024 |
-| 1,000 Users in 10 Days | Boltzman AI | 2025 |
+| $80K GMV Generated | Lawnstack | 2023 |
+| 1,000 Users in 10 Days | Boltzman AI | 2024 |
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nmilien34&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nmilien34&theme=tokyonight&hide_border=true&layout=compact" alt="GitHub Contributions" width="100%">
-</div>
 ---
 
 <div align="center">
