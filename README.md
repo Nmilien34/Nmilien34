@@ -1,49 +1,62 @@
-# Hi there, I'm Nick! 👋
+# Nick Milien
+
+Electrical & Computer Engineering student building multimodal AI products for enterprises — where innovation meets real-world impact.
+
+[Website](https://enterprise.boltzman.ai/) • [Boltzman](https://enterprise.boltzman.ai/) • [LinkedIn](https://www.linkedin.com/in/nmilien/) • [Email](mailto:nick10xeng@gmail.com)
+
+## About
+
+Senior Electrical & Computer Engineering student at NJIT with a passion for solving problems through entrepreneurship. I specialize in going from 0 to 1, creating both consumer and enterprise products at the intersection of hardware and software.
+
+Currently building multimodal AI products for enterprises, with a focus on voice AI solutions for restaurants that generate revenue and deliver measurable impact.
+
+My long-term vision includes tackling some of the hardest problems in biotech, deployable robotics, rail link systems, and humanoid machines.
+
+## What I'm Building
+
+**[Boltzman Enterprise](https://enterprise.boltzman.ai/)** is a voice AI platform that transforms how businesses handle customer interactions. We're not just another AI company — we're building production-ready solutions that restaurants use daily to automate phone calls, process orders, and integrate seamlessly into existing workflows. The platform is profitable and generating consistent revenue.
+
+## Experience
+
+**Co-founder & CTO at [Boltzman](https://enterprise.boltzman.ai/)** — Voice AI productivity platform  
+Built multimodal AI products serving enterprise clients, with particular success in restaurant automation. Developed voice-native AI assistants and chatbot platforms reaching 1,000+ users.
+
+**Founder at [Lawnstack](https://www.lawnstack.com)** — Home services membership platform  
+Created a subscription-based platform for outdoor home maintenance that generated $80K in GMV and was backed by [Alchemist Accelerator](https://alchemistaccelerator.com/). Recruited talent from MIT, Cornell, Harvard, Georgia Tech, and UPenn, with team members now at Meta, HRT, Stripe, and Palantir.
+
+**Product Developer** — AI-powered productivity tools  
+Developed an AI chatbot similar to Perplexity with integrations into Google Docs, Notion, and Slack. Created universal AI voice assistant platform with voice-native interactions.
+
+## Featured Work
+
+**[Boltzman for Restaurants](https://enterprise.boltzman.ai/)** • Co-founder & CTO  
+Voice AI platform automating restaurant phone operations. Handles order processing and integrates directly into existing restaurant workflows. Currently profitable with growing enterprise client base.
+
+**[Lawnstack](https://www.lawnstack.com)** • Founder  
+Home services membership platform backed by [Alchemist Accelerator](https://alchemistaccelerator.com/). Generated $80K+ in GMV and built a team of exceptional talent from top-tier universities.
+
+**[Boltzman AI](https://www.boltzman.ai/new)** • Co-founder  
+Consumer AI chatbot for faster internet browsing with productivity tool integrations. Reached 1,000 users in 10 days. Also built a [Voice Assistant](https://voice.boltzman.ai) platform with voice-native interactions.
+
+## Technical Skills
+
+**Languages:** C, C++, Python, JavaScript, TypeScript, MATLAB
+
+**Hardware & Embedded:** Arduino, Raspberry Pi, Circuit Design, Signal Processing
+
+**Web Development:** React, Node.js, HTML5, CSS3, RESTful APIs
+
+**AI & Machine Learning:** Natural Language Processing, Voice AI, Multimodal AI Systems
+
+**Tools & Platforms:** Git, Linux, VS Code, Cloud Platforms
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Electrical+%26+Computer+Engineering+Student;Problem+Solver+%26+Entrepreneur;Building+Hardware+%2B+Software+Solutions" alt="Typing SVG" />
-</div>
-
-## 🎓 About Me
-
-Senior **Electrical & Computer Engineering** student at **NJIT** with a serious passion for solving problems and a knack for entrepreneurship. I love building solutions that bridge the gap between hardware and software, always looking for opportunities to turn innovative ideas into reality.
-
-- 🔭 I'm currently working on **embedded systems projects** and **full-stack applications**
-- 🌱 I'm currently learning **advanced microcontroller programming** and **cloud architecture**
-- 👯 I'm looking to collaborate on **IoT projects** and **innovative startups**
-- 💬 Ask me about **circuit design**, **programming**, or **entrepreneurship**
-- 📫 How to reach me: **nick10xeng@gmail.com** | **https://www.linkedin.com/in/nmilien/**
-- ⚡ Fun fact: I can debug both software bugs and hardware circuits with equal enthusiasm!
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### Hardware & Embedded
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+[![GitHub Snake dark](https://raw.githubusercontent.com/Nmilien34/Nmilien34/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/Nmilien34/Nmilien34)
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nmilien34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
@@ -54,28 +67,13 @@ Senior **Electrical & Computer Engineering** student at **NJIT** with a serious 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nmilien34&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600">
 </div>
 
-## 🐍 Contribution Snake
+## Recognition
 
-<div align="center">
-  
-[![GitHub Snake dark](https://raw.githubusercontent.com/Nmilien34/Nmilien34/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/Nmilien34/Nmilien34)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nmilien34&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nmilien/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nick10xeng@gmail.com)
-
-</div>
+| Achievement | Organization | Year |
+|-------------|--------------|------|
+| Alchemist Accelerator | World's #1 B2B Accelerator | 2024 |
+| $80K GMV Generated | Lawnstack | 2023 |
+| 1,000 Users in 10 Days | Boltzman AI | 2024 |
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nmilien34&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
@@ -84,5 +82,5 @@ Senior **Electrical & Computer Engineering** student at **NJIT** with a serious 
 ---
 
 <div align="center">
-  <i>💡 "The best way to predict the future is to invent it." - Alan Kay</i>
+  <i>💡 "The best way to predict the future is to invent it." — Alan Kay</i>
 </div>
