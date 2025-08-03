@@ -84,7 +84,7 @@ Consumer AI chatbot for faster internet browsing with productivity tool integrat
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nmilien34&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Contribution Stats" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nmilien34&theme=tokyonight" alt="GitHub Contribution Grid" width="100%">
 </div>
 ---
 
