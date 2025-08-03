@@ -18,13 +18,13 @@ My long-term vision includes tackling some of the hardest problems in biotech, d
 
 ## Experience
 
-**Co-founder & CTO at [Boltzman](https://enterprise.boltzman.ai/)** — Voice AI productivity platform  
+**Co-founder & Product at [Boltzman](https://voice.boltzman.ai/)** — Voice AI productivity platform  
 Built multimodal AI products serving enterprise clients, with particular success in restaurant automation. Developed voice-native AI assistants and chatbot platforms reaching 1,000+ users.
 
-**Founder at [Lawnstack](https://www.lawnstack.com)** — Home services membership platform  
+**Founder & Product at [Lawnstack](https://www.lawnstack.com)** — Home services membership platform  
 Created a subscription-based platform for outdoor home maintenance that generated $80K in GMV and was backed by [Alchemist Accelerator](https://alchemistaccelerator.com/). Recruited talent from MIT, Cornell, Harvard, Georgia Tech, and UPenn, with team members now at Meta, HRT, Stripe, and Palantir.
 
-**Product Developer** — AI-powered productivity tools  
+**Co-founder and product at [Boltzman](https://www.boltzman.ai/)** — AI-powered productivity tools  
 Developed an AI chatbot similar to Perplexity with integrations into Google Docs, Notion, and Slack. Created universal AI voice assistant platform with voice-native interactions.
 
 ## Featured Work
