@@ -82,10 +82,6 @@ Consumer AI chatbot for faster internet browsing with productivity tool integrat
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nmilien34&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nmilien34&theme=tokyonight" alt="GitHub Contribution Grid" width="100%">
-</div>
 ---
 
 <div align="center">
