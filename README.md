@@ -72,8 +72,8 @@ Consumer AI chatbot for faster internet browsing with productivity tool integrat
 | Achievement | Organization | Year |
 |-------------|--------------|------|
 | Alchemist Accelerator | World's #1 B2B Accelerator | 2024 |
-| $80K GMV Generated | Lawnstack | 2023 |
-| 1,000 Users in 10 Days | Boltzman AI | 2024 |
+| $80K GMV Generated | Lawnstack | 2024 |
+| 1,000 Users in 10 Days | Boltzman AI | 2025 |
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nmilien34&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
