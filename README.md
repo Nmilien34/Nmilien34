@@ -84,7 +84,7 @@ Consumer AI chatbot for faster internet browsing with productivity tool integrat
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/409ba0/Nmilien34" alt="GitHub Contribution Chart" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nmilien34&theme=tokyonight" alt="GitHub Contribution Graph" width="100%">
 </div>
 ---
 
