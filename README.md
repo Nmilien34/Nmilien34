@@ -84,9 +84,8 @@ Consumer AI chatbot for faster internet browsing with productivity tool integrat
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nmilien34&theme=tokyonight&hide_border=true&layout=compact" alt="GitHub Contributions" width="100%">
+  <img src="https://ghchart.rshah.org/409ba0/Nmilien34" alt="GitHub Contribution Chart" width="100%">
 </div>
-
 ---
 
 <div align="center">
