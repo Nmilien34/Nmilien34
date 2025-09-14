@@ -19,7 +19,7 @@ Boltzman Voice[Boltzman Voice](https://voice.boltzman.ai/)
  — Next, we built an agentic voice assistant designed for downtime moments like driving, working out, or doing chores, when you still want to get things done but can’t access your devices. With Boltzman Voice, users could browse the internet and stay productive hands-free. It grew to 271 users with 1 paying subscriber.
 
 Boltzman Enterprise[Boltzman Enterprise](https://enterprise.boltzman.ai/)
- — While building the earlier projects, I became really excited about voice agents and saw an opportunity in local businesses, restaurants, hotels, salons, etc. I solo-built a voice agent that answers calls, takes orders, books appointments, and answers customer questions. I partnered with Clover, Square, and OpenTable to integrate into their systems, and scaled the business to $28,125 MRR in 3 months with 70% margins. It still pays for itself and my bills.
+ — While building the earlier projects, I became really excited about voice agents and saw an opportunity in local businesses, restaurants, hotels, salons, etc. I solo-built a voice agent that answers calls, takes orders, books appointments, and answers customer questions. I partnered with Clover, Square, and OpenTable to integrate into their systems, and scaled the business to $2,875 MRR in 3 months with 70% margins. It still pays for itself and my bills.
 
 For the first two products, my focus was backend engineering, integrations, and testing. For the third, I took on a full-stack role (frontend + backend) while also handling sales, marketing, and customer support.
 
