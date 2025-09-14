@@ -26,7 +26,7 @@ For the first two products, my focus was backend engineering, integrations, and 
 ## Experience
 
 
-**Before starting the Boltzman Lab, I began my entrepreneurial journey with a home services startup. We built a home services membership platform called [Lawnstack](https://www.lawnstack.com)
+Before starting the Boltzman Lab, I began my entrepreneurial journey with a home services startup. We built a home services membership platform called [Lawnstack](https://www.lawnstack.com)
  for outdoor home maintenance. Essentially, we provided homeowners with a dedicated team of service providers who came every month to take care of all the outdoor chores that needed doing around the house. The startup generated $80K in GMV and was backed by [Alchemist Accelerator](https://alchemistaccelerator.com/) .I had the opportunity to work with a highly talented team, friends who were from  MIT, Cornell, Harvard, Georgia Tech, and UPenn—many of whom now work at Meta, HRT, Stripe, and Palantir.
 
 During my time at Lawnstack, I was CEO and led product development, which is where I cultivated most of my product thinking skills.
