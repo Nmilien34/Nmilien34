@@ -33,7 +33,7 @@ During my time at Lawnstack, I was CEO and led product development, which is whe
 
 ## Technical Skills
 
-When it comes to coding, I started with “mocking” languages like HTML, CSS, and a bit of JavaScript when I was 17 in high school. Later, I got introduced to C during Embedded Systems 1, where I learned about memory manipulation and got a glimpse into low-level programming. I worked on many projects in C, but I struggled a lot. Trying to escape some of C’s frustrations, I discovered C++, which gave me more freedom. I enjoyed it so much that I took classes from the computer science curriculum focused on C++.
+When it comes to coding, I started with “mocking” languages like HTML, CSS, and a bit of JavaScript when I was 17 in high school. Later, I got introduced to C during Embedded Systems 1, where I learned about memory manipulation and got a glimpse into low, level programming. I worked on many projects in C, but I struggled a lot. Trying to escape some of C’s frustrations, I discovered C++, which gave me more freedom. I enjoyed it so much that I took classes from the computer science curriculum focused on C++.
 
 During Embedded Systems 2, I used Python to build projects. Python felt almost like magic because it read like English—though I still wasn’t a fan of indentation, I ended up working with it a lot.
 
