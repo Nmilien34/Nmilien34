@@ -4,7 +4,7 @@ Technical Product Manager | Voice AI, Robotics & Entreprenruship |ODF Fellow & A
 
  [Website](nickmilien.com) • [LinkedIn](https://www.linkedin.com/in/nmilien/) • [Email](mailto:nicksonn.milien@gmail.com)
 
-Hey! Welcome to my GitHub. I have many public projects—feel free to check them out. If something peaks your interest, shoot me an email.
+Hey! Welcome to my GitHub. I have many public projects - feel free to check them out. If something peaks your interest, shoot me an email.
 In the past I've built:
 
 Lawnstack[Lawnstack](https://www.lawnstack.com/) - A home membership platform for outdoor chores 
