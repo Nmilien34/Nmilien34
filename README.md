@@ -41,18 +41,6 @@ I've built projects using C/C++, Python, and TypeScript/JavaScript, but if there
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nmilien34&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="GitHub Activity Graph" width="100%">
 </div>
-
-## Recognition
-
-| Achievement | Organization | Year |
-|-------------|--------------|------|
-| Alchemist Accelerator | World's #1 B2B Accelerator | 2024 |
-| $80K GMV Generated | Lawnstack | 2024 |
-| 3,000 Users in 1 month | Boltzman AI | 2025 |
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nmilien34&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
-</div>
 ---
 
 <div align="center">
