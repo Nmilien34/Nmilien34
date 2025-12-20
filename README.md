@@ -17,9 +17,9 @@ I've also worked on projects as a contractor like Clearr and others.
 
 About me: 
 
-I love finding the most important problems to work on-—problems that make a given experience better. I'm a generalist, meaning I'll do whatever it takes to make the team win, but my specialty is product (the experience itself): from user research and understanding what users really want, to building stuff that I think users want. My website is a good way to learn more about me-—you can find it here [https://www.nickmilien.com/].
+I love finding the most important problems to work on-—problems that make a given experience better. I'm a generalist, meaning I'll do whatever it takes to make the team win, but my specialty is product (the experience itself): from user research and understanding what users really want, to building stuff that I think users want. I hold a degree in electrical and computer engineering from New Jersey Institute of Technology. My website is a good way to learn more about me-—you can find it here [https://www.nickmilien.com/].
 
-I've built projects using C/C++, Python, and TypeScript/JavaScript, but if there's one language I've used the most, it's TypeScript/JavaScript.
+I've built projects using C/C++, Python, and TypeScript/JavaScript, but if there's one language I've used the most, it's TypeScript/JavaScript. I also have build a ton of embedded systems projects, I like working with Raspberry pi's, arduinos and stuff, I find a lot of fun in building stuff
 
 <div align="center">
   
