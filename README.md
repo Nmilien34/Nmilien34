@@ -7,11 +7,11 @@ Technical Product Manager | Voice AI, Robotics & Entreprenruship |ODF Fellow & A
 Hey! Welcome to my GitHub. I have many public projects - feel free to check them out. If something peaks your interest, shoot me an email.
 In the past I've built:
 
-Lawnstack[Lawnstack](https://www.lawnstack.com/) - A home membership platform for outdoor chores 
-Boltzman Engine [Boltzman Engine](https://www.boltzman.ai/) - A universal AI assistant that helps you get things done faster 
-Boltzman Voice [Boltzman Voice](https://voice.boltzman.ai/) - A universal voice AI assistant that brings your apps, tabs, and platforms to you
-Boltzman Enterprise [Boltzman Enterprise](https://enterprise.boltzman.ai/) - Voice AI platform for SMBs; we built voice AI solutions for restaurants and salons
-Energy [Energy(NRG)](https://www.yfhnrg.com/) - A YouTube wrapper to listen to ad-free music
+Lawnstack[Lawnstack] (https://www.lawnstack.com/) - A home membership platform for outdoor chores 
+Boltzman Engine [Boltzman Engine] (https://www.boltzman.ai/) - A universal AI assistant that helps you get things done faster 
+Boltzman Voice [Boltzman Voice] (https://voice.boltzman.ai/) - A universal voice AI assistant that brings your apps, tabs, and platforms to you
+Boltzman Enterprise [Boltzman Enterprise] (https://enterprise.boltzman.ai/) - Voice AI platform for SMBs; we built voice AI solutions for restaurants and salons
+Energy [Energy(NRG)] (https://www.yfhnrg.com/) - A YouTube wrapper to listen to ad-free music
 
 I've also worked on projects as a contractor like Clearr and others.
 
