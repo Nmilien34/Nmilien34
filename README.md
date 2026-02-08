@@ -4,7 +4,9 @@ Technical Product Manager | Voice AI, Robotics & Entreprenruship |ODF Fellow & A
 
  [Website](nickmilien.com) • [LinkedIn](https://www.linkedin.com/in/nmilien/) • [Email](mailto:nicksonn.milien@gmail.com)
 
-Hey! Welcome to my GitHub. I have many public projects - feel free to check them out. If something peaks your interest, shoot me an email.
+ I'm Nick. I figure out what's worth building and erase the gap between deciding, prototyping, and shipping. I care about solving the right problems and obsess over well‑designed products, from software to hardware. I previously built a venture‑backed startup.
+
+Welcome to my GitHub. I like building stuff and you can find couple of them here, some of them are vibe-coded and some built manually, If any of them peak your interest, shoot me an email.
 In the past I've built:
 
 Lawnstack[Lawnstack](https://www.lawnstack.com/) - A home membership platform for outdoor chores 
@@ -13,13 +15,9 @@ Boltzman Voice [Boltzman Voice](https://voice.boltzman.ai/) - A universal voice 
 Boltzman Enterprise [Boltzman Enterprise](https://enterprise.boltzman.ai/) - Voice AI platform for SMBs; we built voice AI solutions for restaurants and salons
 Energy [Energy(NRG)](https://www.yfhnrg.com/) - A YouTube wrapper to listen to ad-free music
 
-I've also worked on projects as a contractor like Clearr and others.
+I've also worked on a ton of other projects that are not located here and occasionally work as a contractor, building MVPs for small teams
 
-About me: 
-
-I love finding the most important problems to work on-—problems that make a given experience better. I'm a generalist, meaning I'll do whatever it takes to make the team win, but my specialty is product (the experience itself): from user research and understanding what users really want, to building stuff that I think users want. I hold a degree in electrical and computer engineering from New Jersey Institute of Technology. My website is a good way to learn more about me-—you can find it here [https://www.nickmilien.com/].
-
-I've built projects using C/C++, Python, and TypeScript/JavaScript, but if there's one language I've used the most, it's TypeScript/JavaScript. I also have build a ton of embedded systems projects, I like working with Raspberry pi's, arduinos and stuff, I find a lot of fun in building stuff
+I've built projects using C/C++, Python, and TypeScript/JavaScript, but I use TypeScript/JavaScript alot more than others. I also have built a ton of embedded systems projects, I work with Raspberry pi's, arduinos and op-amps
 
 <div align="center">
   
